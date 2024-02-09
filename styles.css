@@ -1,0 +1,19 @@
+body {
+	background-color: #8166bb;
+}
+
+
+.container {
+	text-align: center;
+	justify-content: center;
+	padding: 5px;
+}
+
+.table {
+	border: 3px solid #5e3a92;
+}
+
+h2 {
+	color: #d0b9dd;
+}
+
